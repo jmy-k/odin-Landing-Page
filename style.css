@@ -18,7 +18,7 @@ body{
 }
 
 .logo{
-    display:flex;gap:16px;justify-content: left;
+    display:flex;gap:16px;
 }
 
 .title{
